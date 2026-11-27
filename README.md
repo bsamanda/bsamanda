@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./a_stylish_moody_professional_tech_themed_banner.png" width="100%" alt="Banner Amanda Beatriz">
+</div>
+
+
 <h3>Hi there 👋 Eu sou Amanda Beatriz</h3>
 
 Estudante em Engenharia de software e front end
@@ -6,9 +11,7 @@ Formada em analise e desenvolvimento de sistemas🎓
 
 Tecnologias
 
-<div align="center">
-  <img src="./a_stylish_moody_professional_tech_themed_banner.png" width="100%" alt="Banner Amanda Beatriz">
-</div>
+
 
 
 <div>
