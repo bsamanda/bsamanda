@@ -6,6 +6,11 @@ Formada em analise e desenvolvimento de sistemas🎓
 
 Tecnologias
 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Banner Amanda Beatriz">
+</div>
+
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
