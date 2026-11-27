@@ -1,7 +1,7 @@
 <h3>Hi there 👋 Eu sou Amanda Beatriz</h3>
 
 Estudante em Engenharia de software e front end
- bs
+<bs>
 Formada em analise e desenvolvimento de sistemas🎓
 
 Tecnologias
