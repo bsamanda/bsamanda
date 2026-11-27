@@ -27,4 +27,3 @@ Tecnologias
     alt="Animação das minhas contribuições no GitHub"
     src="https://raw.githubusercontent.com/bsamanda/bsamanda/output/github-contribution-grid-snake.svg">
 </picture>
-
