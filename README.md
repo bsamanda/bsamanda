@@ -3,11 +3,7 @@
 Estudante em Engenharia de software e front end
 Formada em analise e desenvolvimento de sistemas🎓
 
- Tecnologias
-
-### Tecnologias
-
-### Tecnologias
+Tecnologias
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
