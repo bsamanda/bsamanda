@@ -7,7 +7,7 @@ Formada em analise e desenvolvimento de sistemas🎓
 Tecnologias
 
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner Amanda Beatriz">
+  <img src="./a_stylish_moody_professional_tech_themed_banner.png" width="100%" alt="Banner Amanda Beatriz">
 </div>
 
 
